@@ -16,7 +16,7 @@ index = index.as_query_engine()
 # Define a simple Streamlit app
 st.title("SV Info Chatbot")
 query = st.text_input("Wie kann ich Ihnen helfen?", "")
-query_full = 'Answer a question. Add to the response the name of the source document and the page where the response can be verified. Answer in the language of the question. The question: ' + query
+query_full = 'Beantworte eine Frage und füge die Quellenangabe zu der Information bei (exakter Dateiname des Quelldokuments und Seite, Link zum Quelldokument). Die Frage: ' + query
 
 
 
