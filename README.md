@@ -1,4 +1,4 @@
-# 🦙 Sv Info Chatbot 🖥️
+# 🚗 SV Info Chatbot 🖥️
 
 A simple Streamlit web app for using [LlamaIndex](https://github.com/jerryjliu/llama_index), an interface to connect LLM’s with external data.
 The bot was trained with public data from "Allianz Zentrum für Technik" to provide support for german speaking automotive experts.
